@@ -1,0 +1,4 @@
+# ผลลัพธ์ lead ของแต่ละคน — ไม่ commit
+*.csv
+gmaps-work-*/
+__pycache__/
