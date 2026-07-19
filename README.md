@@ -1,5 +1,7 @@
 # 🎯 gmaps-leads — หา Lead B2B จาก Google Maps ด้วยตัวเอง (ฟรี)
 
+**🌐 หน้าเว็บแนะนำ: [gmaps-leads-bizdrive.vercel.app](https://gmaps-leads-bizdrive.vercel.app)**
+
 ดึงรายชื่อธุรกิจจาก Google Maps เป็นไฟล์ CSV — ชื่อร้าน เบอร์โทร เว็บไซต์ อีเมล ที่อยู่ พิกัด เรตติ้ง — ระดับ**พันรายการ**ต่อรอบ ไม่เสียค่า API
 
 > ใช้ [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) (open source, MIT) เป็นเครื่องยนต์
